@@ -26,10 +26,10 @@ for i in range(casillas + 1):
 # Mostramos el tablero completo en una sola línea
 
 
-print("".join(tablero))
+print("".join(tablero)) '''
 
 
-'''
+
 #EJEMPLO EN PHYTON
 
 
