@@ -52,12 +52,14 @@ while posicion < meta:
         posicion = meta
         
          # Dibujar todas las casillas desde arriba hasta la posición actual
-         
-    for i in range(posicion):
+for i in range(posicion):
+    print("|")  
+    '''
     
-        print("|")
+    
         
-        '''
+        
+        
 
     
     
