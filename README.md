@@ -6,7 +6,7 @@ En este blog voy a implementar un programa que dibuje las lineas que el usuario 
 Reto1: simula el comportamiento de la tortuga usando solo print() e input().
 
 Intenta recrear el movimiento de la tortuga únicamente con texto, usando funciones, print() y input() para pedir valores al usuario.
-'''phyton
+'''readme.md
 casillas = int(input("¿Cuántas casillas quieres avanzar? "))
 
 # Creamos una línea vacía con "_" para representar casillas
