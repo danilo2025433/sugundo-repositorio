@@ -48,10 +48,21 @@ while posicion < meta:
         '''
 
 
-        
-        #EJEMPLO EN PHYTON.
 
-        <img width="1115" height="628" alt="Captura de pantalla 2025-12-14 071912" src="https://github.com/user-attachments/assets/28a8ceb7-ae70-45e4-acf5-084eee371ab1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
 
 
         
