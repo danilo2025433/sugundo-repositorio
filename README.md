@@ -35,17 +35,18 @@ Crea el rastro de una tortuga moviéndose hacia abajo usando únicamente print()
 '''phyton
 posicion = 0      # posición inicial
 meta = 10         # número de casillas (puedes cambiarlo)
-
 while posicion < meta:
     pasos = int(input("¿Cuántas posiciones quieres que baje la barra? "))
     posicion += pasos
     if posicion > meta:
         posicion = meta
-    
-    # Dibujar todas las casillas desde arriba hasta la posición actual
+         # Dibujar todas las casillas desde arriba hasta la posición actual
     for i in range(posicion):
         print("|")
         '''
+
+    
+    
 
 
 
