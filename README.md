@@ -32,7 +32,7 @@ Reto 2: Tortuga bajando
 
 Crea el rastro de una tortuga moviéndose hacia abajo usando únicamente print() e input().
 #Este programa pide al usuario cuantas posiciones quiere que baje  la barra y  dibuja un (|) las posiciones que el usuario le indique.
-'''phyton
+'''phyton'''
 posicion = 0      # posición inicial
 meta = 10         # número de casillas (puedes cambiarlo)
 while posicion < meta:
