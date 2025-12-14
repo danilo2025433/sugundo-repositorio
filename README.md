@@ -8,14 +8,14 @@ Intenta recrear el movimiento de la tortuga únicamente con texto, usando funcio
 '''phyton'''
 casillas = int(input("¿Cuántas casillas quieres avanzar? "))
 
-# Creamos una línea vacía con "_" para representar casillas
+#Creamos una línea vacía con "_" para representar casillas
 tablero = ["_"] * (casillas + 1)
 
-# Recorremos cada casilla y dejamos un "-"
+ #Recorremos cada casilla y dejamos un "-"
 for i in range(casillas + 1):
     tablero[i] = "-"
   
-# Mostramos el tablero completo en una sola línea
+#Mostramos el tablero completo en una sola línea
 print("".join(tablero))
 '''phyton'''
 <img width="1115" height="628" alt="Captura de pantalla 2025-12-13 191927" src="https://github.com/user-attachments/assets/eb69054b-2f47-43a6-80ad-d18a1ba2ea6d" />
